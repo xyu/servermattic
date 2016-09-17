@@ -2,4 +2,4 @@
 #
 # Server in Dallas, Texas
 XEN-953:DFW:192.0.95.3:vnsavage.gm.a8c.com:192.168.95.3:nginx-base,nginx-php,mysql-base:0:
-XEN-953:DFW:192.0.95.4:hypertextranch.gm.a8c.com:192.168.95.4:nginx-base,nginx-php,mysql-base:0:
+XEN-953:DFW:192.0.95.4:hypertextranch.gm.a8c.com:192.168.95.4:nginx-base,nginx-php,mysql-base,wordpress:0:
